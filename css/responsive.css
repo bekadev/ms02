@@ -488,7 +488,10 @@ All this is done for any sub-level being entered.
     }
 
     .navbar-default .navbar-collapse, .navbar-default .navbar-form{
-        width: 100%;
+        /* width: 100%; */
+
+        margin-left: 100px;
+        margin-top: 34px;
     }
 
     .logo img{

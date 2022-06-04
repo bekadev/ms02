@@ -28,6 +28,8 @@
     -webkit-transform: translate3d(0px, 0px, 0px);
 }
 .owl-carousel .owl-item {
+    width: 223px;
+    padding-left: 33px;
     position: relative;
     min-height: 1px;
     float: left;
@@ -112,7 +114,7 @@
 
 .owl-carousel-navigation .owl-controls .owl-nav .owl-prev,
 .owl-carousel-navigation .owl-controls .owl-nav .owl-next{
-    position: absolute;
+    /* position: absolute; */
     right: -30px;
     width: 30px;
     height: 30px;
